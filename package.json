@@ -1,0 +1,25 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asaeed0/W10-LIRI.git"
+  },
+  "author": "Amaan Saeed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asaeed0/W10-LIRI/issues"
+  },
+  "homepage": "https://github.com/asaeed0/W10-LIRI#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0",
+    "twitter": "^1.7.1"
+  }
+}
